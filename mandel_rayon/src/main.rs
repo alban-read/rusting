@@ -14,7 +14,6 @@ fn time_function<F, R>(func: F) -> R
     result
 }
 
-
 const HEIGHT: usize = 1080;
 const WIDTH: usize = 1920;
 
